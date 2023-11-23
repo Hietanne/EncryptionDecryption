@@ -3,7 +3,8 @@
     {
       "name": "windows-gcc-x64",
       "includePath": [
-        "${workspaceFolder}/**"
+        "${workspaceFolder}/**",
+        "C:/Program Files/OpenSSL-Win64/include"
       ],
       "compilerPath": "C:/Qt/Tools/mingw810_32/bin/gcc.exe",
       "cStandard": "${default}",
